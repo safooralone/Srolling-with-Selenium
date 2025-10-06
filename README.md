@@ -47,8 +47,8 @@ JSON – to serialize data
 
 Clone the repository:
 
-git clone https://github.com/yourusername/automated-image-scraper.git
-cd automated-image-scraper
+git clone https://github.com/safooralone/Scrolling-with-Selenium.git
+cd Scrolling-with-Selenium
 
 
 
